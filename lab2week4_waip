@@ -1,0 +1,33 @@
+<html>
+
+<head>
+    <title>Lab 1</title>
+</head>
+<h3>1. Basics of C++</h3>
+<ul>
+    <li>Literals</li>
+    <ol type="i">
+        <li>Constant</li>
+        <li>Variables</li>
+    </ol>
+    <li>Declaration</li>
+    <li>Basic Code</li>
+</ul>
+<h3>2. Selection</h3>
+<ul>
+    <li>If Else</li>
+    <li>Switch</li>
+</ul>
+<h3>3. Repitition</h3>
+<ul>
+    <li>While</li>
+    <ol type="i">
+        <li>Single</li>
+        <li>Nested</li>
+    </ol>
+    <li>For</li>
+</ul>
+<h3>4. Function</h3>
+<h3>5. Arrays</h3>
+
+</html>
